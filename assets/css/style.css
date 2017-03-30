@@ -43,6 +43,7 @@
 /* CSS */
 
 body {
+  background-color: rgb(232, 224, 80);
   font-family: 'Futura PT Book', Helvetica, Arial, sans-serif;
   line-height: 1.1em;
   font-size: 17px;
@@ -62,9 +63,14 @@ strong {
 
 .wrapper {
   width: 100%;
+  background-color: #fff;
   background-image: url('../img/bg.png');
   background-position: center;
   background-size: contain;
+}
+
+.wrapper:after {
+  background-color: rgb(232, 216, 205);
 }
 
 .container.main {
