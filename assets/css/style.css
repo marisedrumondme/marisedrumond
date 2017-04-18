@@ -94,6 +94,12 @@ strong {
   font-style: italic;
 }
 
+.mini_logo {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 .pic {
   text-align: center;
   margin: 0px auto;
