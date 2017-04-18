@@ -87,7 +87,7 @@ strong {
 }
 
 .quote {
-  margin: 0px auto;
+  margin: 20px auto;
   padding-top: 30px;
   width: 85%;
   text-align: center;
@@ -96,8 +96,7 @@ strong {
 
 .mini_logo {
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px 0px;
 }
 
 .pic {
