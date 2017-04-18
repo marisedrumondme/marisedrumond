@@ -204,6 +204,10 @@ strong {
 }
 
 @media (max-width: 900px) {
+  .wrapper {
+    background-image: none;
+  }
+  
   .secret-logo {
     display: block;
   }
